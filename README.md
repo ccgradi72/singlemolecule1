@@ -10,6 +10,7 @@ Files:
 1. Dual color FCS analysis
 2. Photobleaching steps analysis
 
-If you use these scripts a simple acknowledgement and citation of our publications will be enough. </b>
+If you use these scripts a simple acknowledgement and citation of our publications will be enough. <b>
 Li et al., Biophysical Journal, 2018
 Ahmed et al., Nature Communications, 2018
+</b>
